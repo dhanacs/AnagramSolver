@@ -1,4 +1,4 @@
-// Code to get all the anagrams of the given word.
+// Code to get all the anagrams of a given word.
 
 import java.io.File;
 import java.nio.charset.Charset;

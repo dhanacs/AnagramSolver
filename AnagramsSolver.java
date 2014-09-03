@@ -18,7 +18,7 @@ public class AnagramSolver
   private HashMap<Integer, String>  integerMap;
 
   // Constructor.
-  public AnagramsSolver()
+  public AnagramSolver()
   {
     // Initialize.
     wordMap = new HashMap<String, Integer>();

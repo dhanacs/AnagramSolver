@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.List;
 
-public class AnagramsSolver
+public class AnagramSolver
 {
   private String words[];
   private HashMap<String, Integer> wordMap; // Word to hash.
